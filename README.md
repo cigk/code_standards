@@ -771,36 +771,3 @@ AS 已帮你集成了一些注释模板，我们只需要直接使用即可，�
 | temp                 | tmp                                      |
 | window               | wnd                                      |
 程序中使用单词缩写原则：不要用缩写，除非该缩写是约定俗成的。
-## 参考
-
-[Android 包命名规范]:[Android 包命名规范]
-[Android 开发最佳实践]:[Android 开发最佳实践]
-[Android 编码规范]:[Android 编码规范]
-[阿里巴巴 Java 开发手册]:[阿里巴巴 Java 开发手册]
-[Project and code style guidelines]:[Project and code style guidelines]
-[Google Java 编程风格指南]:[Google Java 编程风格指南]
-[小细节，大用途，35 个 Java 代码性能优化总结！]:[小细节，大用途，35 个 Java 代码性能优化总结！]
-[Package by features, not layers]: https://medium.com/@cesarmcferreira/package-by-features-not-layers-2d076df1964d#.mp782izhh
-[todo-mvp]: https://github.com/googlesamples/android-architecture/tree/todo-mvp/
-[Android 开发者工具]: http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0526/7973.html
-[可绘制对象资源类型]: https://developer.android.com/guide/topics/resources/drawable-resource.html
-[Android 流行框架查速表]: http://www.ctolib.com/cheatsheets-Android-ch.html
-[Retrofit]: https://github.com/square/retrofit
-[RxAndroid]: https://github.com/ReactiveX/RxAndroid
-[OkHttp]: https://github.com/square/okhttp
-[Glide]: https://github.com/bumptech/glide
-[Fresco]: https://github.com/facebook/fresco
-[Gson]: https://github.com/google/gson
-[Fastjson]: https://github.com/alibaba/fastjson
-[EventBus]: https://github.com/greenrobot/EventBus
-[AndroidEventBus]: https://github.com/bboyfeiyu/AndroidEventBus
-[GreenDao]: https://github.com/greenrobot/greenDAO
-[Dagger2]: https://github.com/google/dagger
-[Tinker]: https://github.com/Tencent/tinker
-[Android 包命名规范]: http://www.ayqy.net/blog/android%E5%8C%85%E5%91%BD%E5%90%8D%E8%A7%84%E8%8C%83/
-[Android 开发最佳实践]: https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md
-[Android 编码规范]: http://www.jianshu.com/p/0a984f999592
-[阿里巴巴 Java 开发手册]: https://102.alibaba.com/newsInfo.htm?newsId=6
-[Project and code style guidelines]: https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md
-[Google Java 编程风格指南]: http://www.hawstein.com/posts/google-java-style.html
-[小细节，大用途，35 个 Java 代码性能优化总结！]: http://www.jianshu.com/p/436943216526
